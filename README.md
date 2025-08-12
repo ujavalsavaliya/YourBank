@@ -31,7 +31,9 @@ YourBank is a modern banking web application that allows users to manage deposit
 ---
 
 3. Setup Frontend
+```bash
 cd yourbank
 npm install
 npm run dev
+```
 
