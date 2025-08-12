@@ -1,12 +1,37 @@
-# React + Vite
+# 🏦 YourBank
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+YourBank is a modern banking web application that allows users to manage deposits, withdrawals, transfers, and view transaction history — all with secure JWT-based authentication.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🚀 Features
 
-## Expanding the ESLint configuration
+- **User Authentication** – Secure login and signup with JWT
+- **Banking Operations** – Deposit, Withdraw, and Transfer funds
+- **Transaction History** – View detailed records of all transactions
+- **Responsive UI** – Built with React and Tailwind CSS
+- **Secure Backend** – Spring Boot with role-based access
+- **REST API Integration** – Smooth frontend-backend communication
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+## 🛠 Tech Stack
+
+**Frontend:**
+- React + Vite
+- Tailwind CSS
+- Axios for API calls
+- 
+**Tools & Deployment:**
+- Git / GitHub
+- Vite / React
+- React Router DOM 
+- Vercel / Netlify for frontend
+
+---
+
+3. Setup Frontend
+cd yourbank
+npm install
+npm run dev
+
